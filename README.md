@@ -1,8 +1,11 @@
-<p align="center">
-	<samp>
-		<a href="https://twitter.com/gotorion_">tweets</a>
-		<a href="https://social.vivaldi.net/@junhui">mastodon</a>
-	</samp>
-</p>
-	
+One must keep learning...
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotorion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
