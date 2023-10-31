@@ -12,4 +12,4 @@ One must keep learning...
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/junhui-v?theme=light&font=Source%20Code%20Pro&ext=heatmap&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gotorion?theme=light&font=Source%20Code%20Pro&ext=heatmap&site=cn)
