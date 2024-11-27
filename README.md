@@ -9,7 +9,3 @@ One must keep learning...
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/gotorion?theme=light&font=Source%20Code%20Pro&ext=heatmap&site=cn)
