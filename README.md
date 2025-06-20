@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 17 June 2025
+From: 05 November 2023 - To: 18 June 2025
 
-Total Time: 812 hrs 15 mins
+Total Time: 812 hrs 35 mins
 
-C++                487 hrs 41 mins ██████████████▒░░░░░░░░░░   57.29 %
-C                  193 hrs 3 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
-CMake              44 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+C++                487 hrs 57 mins ██████████████▒░░░░░░░░░░   57.30 %
+C                  193 hrs 5 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+CMake              44 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 Other              39 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
