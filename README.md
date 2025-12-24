@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 21 December 2025
+From: 05 November 2023 - To: 22 December 2025
 
-Total Time: 903 hrs 9 mins
+Total Time: 903 hrs 53 mins
 
-C++                518 hrs 20 mins ████████████▓░░░░░░░░░░░░   51.21 %
-C                  197 hrs 46 mins █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Other              109 hrs         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+C++                518 hrs 20 mins ████████████▓░░░░░░░░░░░░   51.17 %
+C                  198 hrs 16 mins █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Other              109 hrs         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
 ```
 
 <!--END_SECTION:waka-->
