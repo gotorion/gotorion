@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 07 January 2026
+From: 05 November 2023 - To: 08 January 2026
 
-Total Time: 937 hrs 4 mins
+Total Time: 939 hrs 39 mins
 
-C++                531 hrs 55 mins ████████████▓░░░░░░░░░░░░   50.70 %
-C                  203 hrs 15 mins █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-Other              112 hrs         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+C++                532 hrs 40 mins ████████████▓░░░░░░░░░░░░   50.65 %
+C                  203 hrs 19 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+Other              112 hrs 1 min   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
 ```
 
 <!--END_SECTION:waka-->
