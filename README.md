@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 30 January 2026
+From: 05 November 2023 - To: 01 February 2026
 
-Total Time: 1,006 hrs 58 mins
+Total Time: 1,007 hrs
 
 C++                554 hrs 24 mins ████████████▒░░░░░░░░░░░░   49.28 %
 C                  204 hrs 18 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
