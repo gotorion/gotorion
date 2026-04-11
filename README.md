@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 08 April 2026
+From: 05 November 2023 - To: 09 April 2026
 
 Total Time: 1,009 hrs 9 mins
 
 C++                556 hrs               ████████████▒░░░░░░░░░░░░   49.33 %
 C                  204 hrs 22 mins       ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-Other              117 hrs 59 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Other              118 hrs               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
 ```
 
 <!--END_SECTION:waka-->
